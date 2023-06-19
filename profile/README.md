@@ -1,3 +1,1 @@
-## foobar
-
-baz
+This organization clusters together some repositories around the Software Engineering for Information Systems M. Sc. degree programme. It is not officially affiliated with the Free University of Bolzano.
